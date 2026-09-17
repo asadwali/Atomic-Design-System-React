@@ -1,0 +1,16 @@
+@import "tailwindcss";
+@import "./assets/colorVariables.css";
+@import "./assets/typographyVariables.css";
+@import "tw-animate-css";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme {
+    --color-primary: var(--color-primary);
+    --color-secondary: var(--color-secondary);
+    --color-tertiary: var(--color-tertiary);
+    --color-success: var(--color-success);
+    --color-danger: var(--color-danger);
+    --color-warning: var(--color-tertiary);
+}
+

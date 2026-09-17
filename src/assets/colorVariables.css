@@ -1,0 +1,19 @@
+/* Light Theme */
+:root {
+  --color-primary: #8B5CF6;
+  --color-secondary: #D8534D;
+  --color-tertiary: #030712;
+  --color-success: #19AF66;
+  --color-danger: #F35746;
+  --color-warning: #F8BF00;
+}
+
+/* Dark Theme */
+body.dark {
+  --color-primary: #8B5CF6;
+  --color-secondary: #D8534D;
+  --color-tertiary: #F9FAFB;
+  --color-success: #19AF66;
+  --color-danger: #F35746;
+  --color-warning: #F8BF00;
+}
