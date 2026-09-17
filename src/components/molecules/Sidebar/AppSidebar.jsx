@@ -121,8 +121,9 @@ const AppSidebar = ({ parentClass = "" }) => {
             {/* Logo */}
             <div className="flex items-center justify-between px-2">
                 <div className="flex items-center gap-2 text-xl font-bold dark:text-white group-data-[state=collapsed]:hidden">
-                    <img src={Companylogo} alt="BitLogix Logo" className="size-10" />
-                    <span className="sidebar-label">BitLogix</span>
+                    {/* //<img src={Companylogo} alt="BitLogix Logo" className="size-10" />
+                    <span className="sidebar-label">BitLogix</span> */}
+                    <h3>React Design System</h3>
                 </div>
                 <SidebarTrigger className="group relative flex items-center">
                     <PanelLeft className="size-5 group-data-[state=collapsed]:hidden tex-gray-900 dark:text-white" />
