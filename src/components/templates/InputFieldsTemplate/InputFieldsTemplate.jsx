@@ -3,7 +3,7 @@ import Input from "../../atoms/InputField/Input";
 
 import { Info, Mail } from 'lucide-react';
 import OTPInput from "../../atoms/OTPVerification/OTPVerification";
-import Textarea from "../../atoms/TextArea/Textarea";
+import Textarea from "../../atoms/Textarea/Textarea";
 import InputWithDropDown from "../../molecules/InputWithDropDown/InputWithDropDown";
 import DatePicker from "../../atoms/DatePicker/DatePicker";
 
