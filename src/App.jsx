@@ -26,7 +26,7 @@ import DataTableGridTemplate from "./components/templates/DataTableTemplate/Data
 
 function App() {
   return (
-    <Router>
+    <Router basename={import.meta.env.BASE_URL}>
       <DashboardLayout>
         <Routes>
           <Route path="/" element={<CustomPage />} />

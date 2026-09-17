@@ -1,6 +1,22 @@
 # react-atomic-design-system
 
+[![npm version](https://img.shields.io/npm/v/react-atomic-design-system.svg)](https://www.npmjs.com/package/react-atomic-design-system)
+[![npm downloads](https://img.shields.io/npm/dm/react-atomic-design-system.svg)](https://www.npmjs.com/package/react-atomic-design-system)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](./CONTRIBUTING.md)
+
 A React component library built with [Tailwind CSS v4](https://tailwindcss.com/) and [Radix UI](https://www.radix-ui.com/) primitives, organized around atomic design. It ships **atoms** (the smallest building blocks — buttons, inputs, avatars, ...) and **molecules** (small compositions of atoms — checkbox groups, dropdowns, data tables, ...), each fully documented with its props.
+
+## Live demo
+
+- 🖥️ **Component demo (web view)** — [asadwali.github.io/Atomic-Design-System-React](https://asadwali.github.io/Atomic-Design-System-React/)
+- 📖 **Storybook** — [asadwali.github.io/Atomic-Design-System-React/storybook](https://asadwali.github.io/Atomic-Design-System-React/storybook/)
+- 📦 **npm package** — [npmjs.com/package/react-atomic-design-system](https://www.npmjs.com/package/react-atomic-design-system)
+- 💻 **Source / GitHub** — [github.com/asadwali/Atomic-Design-System-React](https://github.com/asadwali/Atomic-Design-System-React)
+
+## Contributing
+
+Contributions are welcome! Fork the repo, make your changes, and open a pull request. See [CONTRIBUTING.md](./CONTRIBUTING.md) for local setup, coding conventions, and the PR process.
 
 ## Installation
 

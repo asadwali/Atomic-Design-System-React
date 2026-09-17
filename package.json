@@ -5,6 +5,14 @@
   "type": "module",
   "license": "MIT",
   "author": "Asad Wali <asadhamid27@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asadwali/Atomic-Design-System-React.git"
+  },
+  "bugs": {
+    "url": "https://github.com/asadwali/Atomic-Design-System-React/issues"
+  },
+  "homepage": "https://asadwali.github.io/Atomic-Design-System-React/",
   "keywords": [
     "react",
     "component-library",
