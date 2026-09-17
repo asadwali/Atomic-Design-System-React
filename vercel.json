@@ -1,0 +1,7 @@
+{
+  "buildCommand": "npm run build && npm run build-storybook -- --output-dir storybook-static && rm -rf site && mkdir -p site && cp -r dist/. site/ && mkdir -p site/storybook && cp -r storybook-static/. site/storybook/",
+  "outputDirectory": "site",
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/index.html" }
+  ]
+}

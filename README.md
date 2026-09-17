@@ -9,8 +9,8 @@ A React component library built with [Tailwind CSS v4](https://tailwindcss.com/)
 
 ## Live demo
 
-- 🖥️ **Component demo (web view)** — [asadwali.github.io/Atomic-Design-System-React](https://asadwali.github.io/Atomic-Design-System-React/)
-- 📖 **Storybook** — [asadwali.github.io/Atomic-Design-System-React/storybook](https://asadwali.github.io/Atomic-Design-System-React/storybook/)
+- 🖥️ **Component demo (web view)** — [atomic-design-system-react.vercel.app](https://atomic-design-system-react.vercel.app/)
+- 📖 **Storybook** — [atomic-design-system-react.vercel.app/storybook](https://atomic-design-system-react.vercel.app/storybook/)
 - 📦 **npm package** — [npmjs.com/package/react-atomic-design-system](https://www.npmjs.com/package/react-atomic-design-system)
 - 💻 **Source / GitHub** — [github.com/asadwali/Atomic-Design-System-React](https://github.com/asadwali/Atomic-Design-System-React)
 

@@ -12,7 +12,7 @@
   "bugs": {
     "url": "https://github.com/asadwali/Atomic-Design-System-React/issues"
   },
-  "homepage": "https://asadwali.github.io/Atomic-Design-System-React/",
+  "homepage": "https://atomic-design-system-react.vercel.app/",
   "keywords": [
     "react",
     "component-library",
